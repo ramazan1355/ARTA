@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+opencv-python-headless
+numpy
+PyMuPDF
+reportlab
+pytesseract
+easyocr
+ultralytics
+aiofiles
